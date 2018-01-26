@@ -1,4 +1,6 @@
 
+# Never include config.php
+/application/config/config.php
 # ignore CAssetManager for debugging
 /framework/web/CAssetManager.php
 
